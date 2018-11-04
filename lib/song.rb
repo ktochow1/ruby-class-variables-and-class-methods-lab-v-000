@@ -51,6 +51,7 @@ class Song
       # exit!
       end
     end
+    artist_count
   end
 
 
